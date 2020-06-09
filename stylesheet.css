@@ -96,7 +96,8 @@ h2 {
 }
 
 .landing img {
-  height: 300px;
+  max-width: 100%;
+  height: auto;
 }
 
 .contact{
